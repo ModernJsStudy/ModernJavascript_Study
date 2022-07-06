@@ -12,10 +12,13 @@ console.log(`1+2 = ${1+2}`); //1+2=3
 
 
 var key = Symbol('key');
-console.log(typeof key);
+console.log(typeof key); //심벌 값 생성 //symbol
 
+//객체 생성
 var obj = {};
 
- obj[key] = 'value';
- console.log(obj[key]);
+//프로퍼티 키로 유일무이 값을 사용
+obj[key] = 'value';
+console.log(obj[key]); 
  
+
