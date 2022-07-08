@@ -1,0 +1,17 @@
+# [vscode] node.js + npm (windows - console), 확장
+
+node.js  + npm
+
+REPL(Read Eval Print Loop) : 노드에서 간단한 자바스크립트 코드를 실행해 결과를 확인해볼 수 있다.
+
+$ node : 시작 (> 모양으로 변경)
+
+(ctrl + c) x2 : 종료
+
+terminal에서 
+
+vscode 의 내장 터미널
+
+ctrl + ` 단축키는 내장 터미널 열기
+
+code runner : ctrl + alt + n
