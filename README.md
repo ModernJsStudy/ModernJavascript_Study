@@ -4,7 +4,7 @@
 
 ## :pushpin: 진행방식 
 :date:: 2022년 07월 02일(토) ~ 2022년 08월 31일(수)<br>
-:watch:: 매주 수요일 오후 19-21시, 토요일 10-12시 
+:watch:: 매주 화요일 오후 19-21시, 토요일 10-12시 
 
 
 ## :busts_in_silhouette: 멤버
@@ -21,20 +21,25 @@
 :book: 02장 : 자바스크립트란?<br>
 :book: 03장 : 자바스크립트 개발 환경과 실행 방법<br>
 
-:one: reader : soyoonn <br>
+:one: reader : soyoonn 일시 : 2022/07/06(wed) <br>
 :book: 04장 : 변수<br>
 :book: 05장 : 표현식과 문<br>
 :book: 06장 : 데이터 타입<br>
 :book: 07장 : 연산자<br>
 :book: 08장 : 제어문<br>
 
+:two: reader : asegh12 일시 : 2022/07/09(sat) <br>
 :book: 09장 : 타입 변환과 단축 평가<br/>
 :book: 10장 : 객체 리터럴<br/>
 :book: 11장 : 원시 값과 객체의 비교<br/>
 :book: 12장 : 함수<br/>
+
+:three: reader : kjb95 일시 : 2022/07/22(tue) <br>
 :book: 13장 : 스코프<br/>
 :book: 14장 : 전역 변수의 문제점<br/>
 :book: 15장 : let, const 키워드와 블록 레벨 스코프<br/>
+
+:four: reader : robo 일시 : 2022/07/16(sat) <br>
 :book: 16장 : 프로퍼티 어트리뷰트<br/>
 :book: 17장 : 생성자 함수에 의한 객체 생성<br/>
 :book: 18장 : 함수와 일급 객체<br/>
