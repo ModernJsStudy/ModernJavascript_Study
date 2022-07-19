@@ -151,3 +151,4 @@ console.log(obj.hasOwnProperty('__proto__'));
 //18-13
 (function () {}).hasOwnProperty('prototype');
 ({}).hasOwnProperty('prototype');
+

@@ -7,7 +7,31 @@
 모든 객체는 [[Prtotype]] 내부 슬롯이다. : js의 엔진의 내부 로직이므로
 원칙적으로 직접 접근할 수 없지만, [[Prototype]] 내부 슬롯의 경우 __proto__를 통해 간접적으로 접근할 수 있다.
 
+o.__proto__ //object.prototype
 
+자바스크립트 엔진은 프로퍼티를 생성할 때, 
+프로퍼티의 상태*를 나타내는 프로퍼티 어트리뷰트를 자동정의한다.
+*프로퍼티의 상태란?
+값인 value, 값의 갱신여부인 writable, 열거 가능 여부인 enumerable, 재정의 가능여부인 configurable을 말한다.
+
+- value
+- writable
+- enumerable
+- configurable
+
+Object.getOwnPropertyDescriptor(function. property) 메서드로 간접확인가능
+- 호출시, 
+첫번째 매개변수에 객체의 참조를 전달
+두번재 매개변수에는 프로퍼티 키를 문자열로 전달
+
+
+- 프로퍼티 디스크립터 객체를 반환 
+- EC8에서 도입된 Object.getOwnPropertyDescriptors는 모든 프로퍼티의 프로퍼티 어트리뷰트를 정보를 제공하는 프로퍼티 디스크립터 객체들을 반환한다.
+
+
+
+데이터 프로퍼티 : 일반적으로 키 and 값으로 지정되어 있다.
+접근자 프로퍼티 : 접근자 함수로 구성된 프로퍼티
 
  <객체 변경 방지 메서드>
  객체 확장 금지 object.preventExtensions : 프로퍼티 추가 외 다 됨
@@ -21,6 +45,8 @@
 즉, 프로퍼티를 추가하거나 삭제할 수 있고, 프로퍼티 값을 갱신할 수 있으며, 
 Object.defineProperty 또는 Object.defineProperties () 사용해 
 프로퍼티 어트리뷰트를 재정의 할 수도 있다.
+
+
 
 📖 17장: 생성자 함수에 의한 객체 생성 
 객체 리터럴 :  객체 리터럴에 의한 객체 생성 방식
