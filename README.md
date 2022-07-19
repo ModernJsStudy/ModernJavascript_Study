@@ -43,9 +43,13 @@
 :book: 16장 : 프로퍼티 어트리뷰트<br/>
 :book: 17장 : 생성자 함수에 의한 객체 생성<br/>
 :book: 18장 : 함수와 일급 객체<br/>
+
+:five: reader : asegh12 일시 : 2022/07/19(tue) <br>
 :book: 19장 : 프로토타입<br/>
 :book: 20장 : strict mode<br/>
 :book: 21장 : 빌트인 객체<br/>
+
+:six: reader : 
 :book: 22장 : this<br/>
 :book: 23장 : 실행 컨텍스트<br/>
 :book: 24장 : 클로저<br/>
