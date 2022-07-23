@@ -21,38 +21,40 @@
 :book: 02장 : 자바스크립트란?<br>
 :book: 03장 : 자바스크립트 개발 환경과 실행 방법<br>
 
-:one: reader : soyoonn 일시 : 2022/07/06(wed) <br>
+:one: reader : soyoonn <br>일시 : 2022/07/06(wed) <br>
 :book: 04장 : 변수<br>
 :book: 05장 : 표현식과 문<br>
 :book: 06장 : 데이터 타입<br>
 :book: 07장 : 연산자<br>
 :book: 08장 : 제어문<br>
 
-:two: reader : asegh12 일시 : 2022/07/09(sat) <br>
+:two: reader : asegh12<br> 일시 : 2022/07/09(sat) <br>
 :book: 09장 : 타입 변환과 단축 평가<br/>
 :book: 10장 : 객체 리터럴<br/>
 :book: 11장 : 원시 값과 객체의 비교<br/>
 :book: 12장 : 함수<br/>
 
-:three: reader : kjb95 일시 : 2022/07/22(tue) <br>
+:three: reader : kjb95 <br>일시 : 2022/07/22(tue) <br>
 :book: 13장 : 스코프<br/>
 :book: 14장 : 전역 변수의 문제점<br/>
 :book: 15장 : let, const 키워드와 블록 레벨 스코프<br/>
 
-:four: reader : robo 일시 : 2022/07/16(sat) <br>
+:four: reader : robo <br>일시 : 2022/07/16(sat) <br>
 :book: 16장 : 프로퍼티 어트리뷰트<br/>
 :book: 17장 : 생성자 함수에 의한 객체 생성<br/>
 :book: 18장 : 함수와 일급 객체<br/>
 
-:five: reader : asegh12 일시 : 2022/07/19(tue) <br>
+:five: reader : asegh12 <br> 일시 : 2022/07/19(tue) <br>
 :book: 19장 : 프로토타입<br/>
 :book: 20장 : strict mode<br/>
 :book: 21장 : 빌트인 객체<br/>
 
-:six: reader : 
-:book: 22장 : this<br/>
-:book: 23장 : 실행 컨텍스트<br/>
-:book: 24장 : 클로저<br/>
+:six: 진행방식변경* <br> 일시 : 2022/07/23(sat) <br>
+:book: 22장 : this (reader : soyoonn) <br/>
+:book: 23장 : 실행 컨텍스트 (reader : asegh12) <br/>
+:book: 24장 : 클로저 (reader : robo) <br/>
+
+:seven: <br>
 :book: 25장 : 클래스<br/>
 :book: 26장 : ES6 함수의 추가 기능<br/>
 :book: 27장 : 배열<br/>
