@@ -11,10 +11,10 @@
 // obj.foo();
 
 
-// //26-02
-// var foo = function() {};
-// foo();
-// new foo();
+//26-02
+var foo = function() {};
+foo();
+new foo();
 
 //결과값이 나오지 않는ㄴ다....
 
