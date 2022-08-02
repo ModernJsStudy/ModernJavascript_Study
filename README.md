@@ -54,18 +54,25 @@
 :book: 23장 : 실행 컨텍스트 (reader : asegh12) <br/>
 :book: 24장 : 클로저 (reader : robo) <br/>
 
-:seven: <br>
-:book: 25장 : 클래스<br/>
-:book: 26장 : ES6 함수의 추가 기능<br/>
-:book: 27장 : 배열<br/>
+:seven: 일시 : 2022/07/23(tue) <br>
+:book: 25장 : 클래스 (reader : kjb95) <br/>
+:book: 26장 : ES6 함수의 추가 기능  (reader : soyoonn) <br/>
+:book: 27장 : 배열 (reader : asegh12) <br/>
+
+__________________________________________
+method 는 각자 공부하고 이해하기
+
 :book: 28장 : Number<br/>
 :book: 29장 : Math<br/>
 :book: 30장 : Date<br/>
-:book: 31장 : RegExp<br/>
-:book: 32장 : String<br/>
-:book: 32.1 String 생성자 함수<br/>
-:book: 33장 : 7번째 데이터 타입 Symbol<br/>
-:book: 34장 : 이터러블<br/>
+__________________________________________
+:eight: 일시 : 2022/08/02(tue) <br>
+:book: 31장 : RegExp (reader : robo)<br/>
+:book: 32장 : String (reader : soyoonn)<br/>
+:book: 33장 : 7번째 데이터 타입 Symbol (reader : kjb95)<br/>
+:book: 34장 : 이터러블 (reader : asegh12)<br/>
+
+:nine:
 :book: 35장 : 스프레드 문법<br/>
 :book: 36장 : 디스트럭처링 할당<br/>
 :book: 37장 : Set과 Map<br/>
