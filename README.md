@@ -72,19 +72,30 @@ __________________________________________
 :book: 33장 : 7번째 데이터 타입 Symbol (reader : kjb95)<br/>
 :book: 34장 : 이터러블 (reader : asegh12)<br/>
 
-:nine:
-:book: 35장 : 스프레드 문법<br/>
-:book: 36장 : 디스트럭처링 할당<br/>
-:book: 37장 : Set과 Map<br/>
-:book: 38장 : 브라우저의 렌더링 과정<br/>
-:book: 39장 : DOM<br/>
-:book: 40장 : 이벤트<br/>
-:book: 41장 : 타이머<br/>
-:book: 42장 : 비동기 프로그래밍<br/>
-:book: 43장 : Ajax<br/>
-:book: 44장 : REST API<br/>
-:book: 45장 : 프로미스<br/>
-:book: 46장 : 제너레이터와 async/await<br/>
-:book: 47장 : 에러 처리<br/>
+:nine: 일시 : 2022/08/06(sat) <br>
+:book: 35장 : 스프레드 문법 (reader : robo)<br/> 
+:book: 36장 : 디스트럭처링 할당 (reader : kjb95)<br/> 
+:book: 37장 : Set과 Map  (pass)<br/> 
+:book: 38장 : 브라우저의 렌더링 과정 (reader : soyoonn)<br/> 
+
+:one::zero: 일시 : 2022/08/9(tue) <br>
+:book: 39장 : DOM (reader : robo)<br/> 
+:book: 40장 : 이벤트 (reader : kjb95)<br/> 
+:book: 41장 : 타이머 (reader : soyoonn)<br/> 
+
+
+:one::one: 일시 : 2022/08/13(sat) <br>
+:book: 42장 : 비동기 프로그래밍 (reader : robo)<br/> 
+:book: 43장 : Ajax (reader : kjb95)<br/> 
+:book: 44장 : REST API (reader : soyoonn)<br/> 
+
+:one::two: 일시 : 2022/08/16(tue) <br>
+:book: 45장 : 프로미스 (reader : robo)<br/> 
+:book: 46장 : 제너레이터와 async/await (reader : kjb95)<br/> 
+:book: 47장 : 에러 처리 (reader : soyoonn)<br/> 
+
+:one::three: 일시 : 2022/08/23(tue) <br>
 :book: 48장 : 모듈<br/>
-:book: 49장 : Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축<br/>
+:book: 49장 : Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축 (pass)<br/> 
+:book: 문제풀기 3개<br/> 
+fin.
